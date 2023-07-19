@@ -33,7 +33,11 @@ Click the "transact" button to transfer the tokens.
 
 ## Contract Details
 Name: MyToken
+
 Symbol: MTK
+
 Decimals: 18 (standard for most tokens)
+
 Total Supply: Initial supply set during contract deployment
+
 Minting Limit: No minting limit, only restricted by the contract owner's balance
